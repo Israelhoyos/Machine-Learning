@@ -60,15 +60,20 @@ Utilizado por instituciones financieras para identificar transacciones fraudulen
 El Machine Learning (ML) en el análisis de datos es una subdisciplina de la inteligencia artificial (IA) que se enfoca en el desarrollo de algoritmos y modelos que permiten a las computadoras aprender y hacer predicciones o decisiones basadas en datos. A diferencia de los métodos tradicionales de análisis de datos, el machine learning puede identificar patrones complejos y relaciones ocultas en los datos que pueden ser difíciles de descubrir con técnicas estadísticas convencionales.
 
 ## Conceptos Básicos de Machine Learning
-Entrenamiento y Prueba:
 
-Conjunto de Entrenamiento: Parte de los datos que se utiliza para entrenar el modelo.
-Conjunto de Prueba: Parte de los datos que se utiliza para evaluar el rendimiento del modelo.
-Características (Features): Variables de entrada que se utilizan para hacer predicciones.
+### 1.Entrenamiento y Prueba:
 
-Etiquetas (Labels): Variables de salida o respuesta que el modelo intenta predecir.
+* Conjunto de Entrenamiento: Parte de los datos que se utiliza para entrenar el modelo.
+* Conjunto de Prueba: Parte de los datos que se utiliza para evaluar el rendimiento del modelo.
 
-Modelos: Representaciones matemáticas de los patrones en los datos. Ejemplos incluyen regresión lineal, árboles de decisión, redes neuronales, etc.
+### 2.Características (Features): 
+Variables de entrada que se utilizan para hacer predicciones.
+
+### 3.Etiquetas (Labels): 
+Variables de salida o respuesta que el modelo intenta predecir.
+
+### 4.Modelos: 
+Representaciones matemáticas de los patrones en los datos. Ejemplos incluyen regresión lineal, árboles de decisión, redes neuronales, etc.
 
 Tipos de Aprendizaje
 Aprendizaje Supervisado: El modelo se entrena con un conjunto de datos etiquetados. Ejemplos:
