@@ -89,6 +89,7 @@ El modelo se entrena con un conjunto de datos etiquetados. Ejemplos:
 El modelo se entrena con un conjunto de datos no etiquetados. Ejemplos:
 
 **Clustering**: Agrupación de datos en clusters.
+
 **Reducción de Dimensionalidad**: Simplificación de los datos manteniendo la información relevante.
 
 ### 3.Aprendizaje por Refuerzo: 
