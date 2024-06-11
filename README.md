@@ -122,8 +122,9 @@ El modelo aprende a través de la interacción con el entorno, recibiendo recomp
 **7.Ajuste de Hiperparámetros**: Optimizar los parámetros del modelo para mejorar el rendimiento.
 
 **8.Implementación y Monitoreo**: Desplegar el modelo en un entorno de producción y monitorear su rendimiento.
+
 ----
-##Ventajas del Machine Learning:
+## Ventajas del Machine Learning:
 Automatización de Tareas: Permite automatizar y mejorar procesos que antes requerían intervención humana.
 Mejora Continua: Los modelos pueden mejorar continuamente con la disponibilidad de más datos.
 Escalabilidad: Puede manejar grandes volúmenes de datos y complejidad que serían inviables manualmente.
