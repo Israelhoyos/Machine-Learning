@@ -126,6 +126,9 @@ El modelo aprende a través de la interacción con el entorno, recibiendo recomp
 
 ----
 ## Ventajas del Machine Learning:
-Automatización de Tareas: Permite automatizar y mejorar procesos que antes requerían intervención humana.
-Mejora Continua: Los modelos pueden mejorar continuamente con la disponibilidad de más datos.
-Escalabilidad: Puede manejar grandes volúmenes de datos y complejidad que serían inviables manualmente.
+
+**Automatización de Tareas**: Permite automatizar y mejorar procesos que antes requerían intervención humana.
+
+**Mejora Continua**: Los modelos pueden mejorar continuamente con la disponibilidad de más datos.
+
+**Escalabilidad**: Puede manejar grandes volúmenes de datos y complejidad que serían inviables manualmente.
